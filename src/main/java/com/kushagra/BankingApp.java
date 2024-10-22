@@ -29,7 +29,7 @@ public class BankingApp {
 
             while(true){
                 System.out.printf("#### This is My Banking System ####\n");
-                System.out.printf("1. Register\n" + "2. Login\n" + "3. Exit\n" + "Enter your choice 😁 :");
+                System.out.printf("1. Register\n" + "2. Login\n" + "3. Exit\n" + "Enter your choice 😁:");
                 int choice = sc.nextInt();
 
                 switch (choice){
